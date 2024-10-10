@@ -1,0 +1,19 @@
+{
+  "name": "edu-byte",
+  "version": "0.0.1",
+  "description": "Management information system primarily suited for romanian high-schools",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/badoiumihail/edu-byte.git"
+  },
+  "author": "Mihail Badoiu",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/badoiumihail/edu-byte/issues"
+  },
+  "homepage": "https://github.com/badoiumihail/edu-byte#readme"
+}
